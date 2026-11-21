@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="English Street and Beyond">
+<defs>
+<linearGradient id="sky" x2="1" y2="1"><stop stop-color="#183f70"/><stop offset=".52" stop-color="#071a36"/><stop offset="1" stop-color="#081329"/></linearGradient>
+<linearGradient id="gold" x2=".8" y2="1"><stop stop-color="#fff6c0"/><stop offset=".3" stop-color="#e9ad43"/><stop offset=".7" stop-color="#f6c75c"/><stop offset="1" stop-color="#ad6523"/></linearGradient>
+<linearGradient id="blue"><stop stop-color="#1c70a8"/><stop offset="1" stop-color="#132e69"/></linearGradient>
+<linearGradient id="violet"><stop stop-color="#7a31b0"/><stop offset="1" stop-color="#34155d"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#fff6bd" stop-opacity=".78"/><stop offset="1" stop-color="#f5ae2d" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="512" height="512" rx="102" fill="url(#sky)"/>
+<rect x="12" y="12" width="488" height="488" rx="92" fill="none" stroke="url(#gold)" stroke-width="13"/>
+<circle cx="257" cy="168" r="93" fill="url(#light)"/>
+<path d="M258 49l10 42 42 10-42 10-10 42-10-42-42-10 42-10z" fill="#ffe7a1"/>
+<path d="M185 193c33-32 92-29 114-49M196 205c54-14 75-28 95-49" stroke="#dda844" stroke-width="9" fill="none" stroke-linecap="round" opacity=".7"/>
+<rect x="66" y="177" width="126" height="150" rx="25" fill="url(#blue)" stroke="#ffdb83" stroke-width="7" transform="rotate(-10 129 252)"/>
+<rect x="201" y="146" width="112" height="177" rx="25" fill="#a55b18" stroke="#ffe8aa" stroke-width="7"/>
+<rect x="321" y="177" width="126" height="150" rx="25" fill="url(#violet)" stroke="#ffdb83" stroke-width="7" transform="rotate(10 384 252)"/>
+<g fill="none" stroke="#fff0bb" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M99 235q0-31 29-31h23q29 0 29 31v12q0 29-29 29h-11l-20 19v-19q-21-6-21-29z"/><path d="M236 200v85m-24-53h51l-14-13m14 13-14 13m-41 17h57l-13-13m13 13-13 13"/></g>
+<g fill="#fff0bb"><circle cx="129" cy="240" r="5"/><circle cx="145" cy="240" r="5"/><circle cx="161" cy="240" r="5"/></g>
+<path d="M363 258q-17-9-17-31 0-28 31-33 31-5 48 20 13 22-4 41l11 20h-27v17h-35v-23z" fill="none" stroke="#ffe3a6" stroke-width="10" stroke-linejoin="round"/>
+<path d="M374 222q6-17 15-7 10-12 18 0 11 6 0 18 8 11-6 15-15-7-17 1-12-3-10-14" fill="none" stroke="#ffe3a6" stroke-width="5"/>
+<circle cx="259" cy="352" r="110" fill="url(#light)" opacity=".55"/>
+<path d="M63 343q101-42 191 8v105q-108-42-191-10z" fill="#fff5d4" stroke="url(#gold)" stroke-width="11"/>
+<path d="M449 343q-101-42-191 8v105q108-42 191-10z" fill="#fff5d4" stroke="url(#gold)" stroke-width="11"/>
+<path d="M256 351v102" stroke="#bd7a29" stroke-width="8"/>
+<path d="M77 364q81-27 163 7M77 388q85-24 163 7M435 364q-81-27-163 7M435 388q-85-24-163 7" stroke="#d6ad62" stroke-width="3" fill="none"/>
+</svg>
